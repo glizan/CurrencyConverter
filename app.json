@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "CurrencyConverter",
+    "owner": "solutionsconsulting",
     "slug": "CurrencyConverter",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,6 +20,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "androidStatusBar":{
+      "translucent": false,
     },
     "android": {
       "adaptiveIcon": {
